@@ -17,3 +17,11 @@ A nice theme by paullinux. [Gitlab link](https://gitlab.com/paullinux/gtk-theme-
 ![prof screenshot](./Screenshot-Prof.png)
 
 Another good theme by paullinux. [Github link](https://github.com/paullinuxthemer/Prof-XFCE-theme). All smooth and nice, but checkboxes and some other UI elemets are not flat, so 9.5/10. 
+
+---
+
+## Yaru
+
+![yaru screenshot](./Screenshot-Yaru.png)
+
+Iconic theme by Ubuntu team. [Github link](https://github.com/ubuntu/yaru). My personal rating is 9/10.
